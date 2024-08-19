@@ -6,7 +6,7 @@
 
 <p align="center"> 
 
-<img src="https://img.shields.io/github.com/yasmin11111?tab=following" alt="YasminAslaman" height=24px, width=150px/> 
+<img src="https://img.shields.io/github.com/yasmin11111?tab=following?label=Followers&style=social" alt="YasminAslaman" height=24px, width=150px/> 
 
 <img src="https://github.com/yasmin11111?tab=followers" alt="YasminAslaman"  height=24px, width=150px />
 
