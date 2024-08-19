@@ -17,6 +17,7 @@
 
 
 <img align="right" src="https://camo.githubusercontent.com/16f93ae……6f6d2f6…" width="350px" height="250" data-canonical-src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="visibility:visible;max-width:100%;">
+
  -  I am a Student at [FCI](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.eelu.edu.eg%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0i6DPAanyBLlSXufyPVa6zQHJNEL2ypmpPO-MAq8cmIWi9WNpc3966SAE_aem_0Oyb3L315ACZvHLuSljgJA&h=AT1WGts65cSrK6sn4E0jp34wxZ7kfpLh3hS24K0Yh66JitQyPT51AfqzqXY6xUjGxTeCFmtWf7pALSLg2E-b9oMMZK9h0km9YiXQ3LOkYLVFyytu1lJlrc1kMa3OTl4cGmmr&__tn__=%2Cd%3C%2CP-R&c[0]=AT1hDDqwkqTahMtEaKqRQCMEdrjAv1mVh_TDL_c6OX6cx0IWaJgiVsNWT-n6cnCN_yXnsLLLjTZ3izzRVQ2HbUQAtsE2Gkbw7XvA8eId-pph9b30tE_1yD7fgzbRchCZhFK124SeqGzbWuQluRSX0pGIgbe-mEU9_sSTv_lWS-P9tcDFc0qgjyeGaUvAlcWOq6kI-FFKoBii-hj4StasBxv-St85c7dtrmCotMJk3soc-L6KqTfdV80F6nw8CIwSxq6_B_GuQme80kJ0R6M0cQ)👨‍💻
  -  I am a competitive programmer at "Codeforces"
  -  Flutter developer
