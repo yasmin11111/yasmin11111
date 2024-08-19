@@ -6,12 +6,11 @@
 
 <p align="center"> 
 
-<img src="https://img.shields.io/github.com/yasmin11111?tab=following?label=Followers&style=social" alt="YasminAslaman" height=24px, width=150px/> 
+<img src="https://komarev.com/ghpvc/?username=yasmin11111&label=Profile%20views&color=0047AB&style=plastic?" alt="yasmin11111" height=24px, width=150px/> 
 
-<img src="https://github.com/yasmin11111?tab=followers" alt="YasminAslaman"  height=24px, width=150px />
+<img src="https://img.shields.io/github/followers/yasmin11111?label=Followers&style=social" alt="yasmin11111followers"  height=24px, width=150px />
 
 </p>
-
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> <strong>About me:</strong>
 
 
