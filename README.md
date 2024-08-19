@@ -6,9 +6,9 @@
 
 <p align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=mohamedkhalifaabbas&label=Profile%20views&color=0047AB&style=plastic?" alt="YasminAslaman" height=24px, width=150px/> 
+<img src="https://github.com/yasmin11111?tab=following" alt="YasminAslaman" height=24px, width=150px/> 
 
-<img src="https://img.shields.io/github/followers/mohamedkhalifaabbas?label=Followers&style=social" alt="YasminAslaman"  height=24px, width=150px />
+<img src="https://github.com/yasmin11111?tab=followers" alt="YasminAslaman"  height=24px, width=150px />
 
 </p>
 
