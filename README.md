@@ -4,9 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BK25&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Student;Competitive+Programmer;Flutter+developer;Graphic+designer;">
 </a>
 
-</p
+<p align="center"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radwaadel17&label=Profile%20views&color=0e75b6&style=flat" alt="radwaadel17" /> </p>
+<img src="https://komarev.com/ghpvc/?username=mohamedkhalifaabbas&label=Profile%20views&color=0047AB&style=plastic?" alt="YasminAslaman" height=24px, width=150px/> 
+
+<img src="https://img.shields.io/github/followers/mohamedkhalifaabbas?label=Followers&style=social" alt="YasminAslaman"  height=24px, width=150px />
+
+</p>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> <strong>About me:</strong>
 
