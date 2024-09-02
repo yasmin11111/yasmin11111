@@ -65,7 +65,8 @@
  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-   <img src="C:\Users\HP\Downloads\Welcome to Apache NetBeans (1).jpeg" height="40" alt="vscode logo"  />
+    <img width="12" />
+   <img src="https://tenor.com/view/netbeans-gif-26503514" height="40" alt="vscode logo"  />
 
 
  
