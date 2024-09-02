@@ -16,7 +16,7 @@
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> <strong>About me:</strong>      
 
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3cjJtaXByYnBrdGZ1YWNtdG14NHlqamd0YWp1YWFxenh1OHFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NiwZ9THiCOodYySoSh/giphy.gif" width ="380px" height="180"></picture>
+<picture> <img align="right" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" width ="380px" height="180"></picture>
 
  -  I am a Student at [FCI](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.eelu.edu.eg%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0i6DPAanyBLlSXufyPVa6zQHJNEL2ypmpPO-MAq8cmIWi9WNpc3966SAE_aem_0Oyb3L315ACZvHLuSljgJA&h=AT1WGts65cSrK6sn4E0jp34wxZ7kfpLh3hS24K0Yh66JitQyPT51AfqzqXY6xUjGxTeCFmtWf7pALSLg2E-b9oMMZK9h0km9YiXQ3LOkYLVFyytu1lJlrc1kMa3OTl4cGmmr&__tn__=%2Cd%3C%2CP-R&c[0]=AT1hDDqwkqTahMtEaKqRQCMEdrjAv1mVh_TDL_c6OX6cx0IWaJgiVsNWT-n6cnCN_yXnsLLLjTZ3izzRVQ2HbUQAtsE2Gkbw7XvA8eId-pph9b30tE_1yD7fgzbRchCZhFK124SeqGzbWuQluRSX0pGIgbe-mEU9_sSTv_lWS-P9tcDFc0qgjyeGaUvAlcWOq6kI-FFKoBii-hj4StasBxv-St85c7dtrmCotMJk3soc-L6KqTfdV80F6nw8CIwSxq6_B_GuQme80kJ0R6M0cQ)👨‍💻
  -  I am a competitive programmer at "Codeforces"
