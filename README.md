@@ -61,7 +61,7 @@
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%2314354C.svg?style=plastic&logo=git&logoColor=white">
   </a>
 </p>
-<img src = "https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" width=5%> ## 🫶 IDEs
+<img src = "https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" width=5%>  IDEs
  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
