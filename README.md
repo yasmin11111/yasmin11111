@@ -61,21 +61,19 @@
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%2314354C.svg?style=plastic&logo=git&logoColor=white">
   </a>
 </p>
- ### <img src = "https://github.com/MayarAlaa0/MayarAlaa0/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+ ### <img src = "https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" width=5%> IDEs
  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  height="40" alt="intellij logo"/>
-  <img width="12" />
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg"  height="40" alt="pycharm logo"/>
+ 
+
  
   
 ###
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayarAlaa0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MayarAlaa0" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayarAlaa0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yasmin" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MayarAlaa0&show_icons=true&locale=en&theme=tokyonight" alt="MayarAlaa0" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MayarAlaa0&show_icons=true&locale=en&theme=tokyonight" alt="yasmin" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MayarAlaa0&&theme=tokyonight" alt="MayarAlaa0" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MayarAlaa0&&theme=tokyonight" alt="yasmin" />
 
